@@ -5,8 +5,7 @@
     <entry>
       <title><![CDATA[我为什么写博客]]></title>
       <url>/2017/06/13/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
-      <content type="html"><![CDATA[<p>##我为什么要写博客呢？</p>
-<p>前几周突然想起建个个人博客</p>
+      <content type="html"><![CDATA[<p>前几周突然想起建个个人博客</p>
 <p>出发点呢</p>
 <p>是想有个专属于自己的地方</p>
 <p>记录新学到的的编程技术/代码</p>
@@ -55,7 +54,7 @@
     <entry>
       <title><![CDATA[教你拥有一个免费的个人博客]]></title>
       <url>/2017/06/11/%E6%95%99%E4%BD%A0%E6%8B%A5%E6%9C%89%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-      <content type="html"><![CDATA[<p>##心路历程<br>看了很多教程 试了很多方法</p>
+      <content type="html"><![CDATA[<p>看了很多教程 试了很多方法</p>
 <p>出了bug 不知道怎么改 删了再重头写QAQ</p>
 <p>不过还在慢慢的 理解越来越深</p>
 <p>随着一个个小问题的解决</p>
@@ -68,9 +67,9 @@
 <p>这些都是我在找教程、搭建现在这个博客所中亲手打过的 </p>
 <p>所以有想拥有一个完全免费的博客的朋友</p>
 <p>你看下面的教程就好啦</p>
-<p>##搭建博客<br><a href="http://www.jianshu.com/p/cc8654b61bd4" target="_blank" rel="external">使用Hexo搭建博客（二），搭建博客的过程</a></p>
+<p><a href="http://www.jianshu.com/p/cc8654b61bd4" target="_blank" rel="external">使用Hexo搭建博客（二），搭建博客的过程</a></p>
 <p><a href="http://www.jianshu.com/p/db7e64d86067" target="_blank" rel="external">使用Hexo搭建博客（三），博客配置、主题和写作</a></p>
-<p>##NEXT主题以及优化<br>我用的是NEXT主题 这个主题功能很强大</p>
+<p>我用的是NEXT主题 这个主题功能很强大</p>
 <p>可以看下这个</p>
 <p><a href="http://blog.csdn.net/willxue123/article/details/50994852" target="_blank" rel="external">Hexo系列教程之三：next主题的配置和优化</a><br><a href="http://www.jianshu.com/p/ba61be039c1f" target="_blank" rel="external">hexo之next主题优化整理</a></p>
 <p>如果你想增加阅读量统计功能</p>
