@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangzheming.github.io/"/>
-  <updated>2017-06-11T12:20:38.978Z</updated>
+  <updated>2017-06-12T18:27:17.352Z</updated>
   <id>https://zhangzheming.github.io/</id>
   
   <author>
@@ -16,38 +16,94 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我为什么写博客</title>
+    <link href="https://zhangzheming.github.io/2017/06/13/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://zhangzheming.github.io/2017/06/13/我为什么写博客/</id>
+    <published>2017-06-12T16:07:22.000Z</published>
+    <updated>2017-06-12T18:27:17.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>##我为什么要写博客呢？</p>
+<p>前几周突然想起建个个人博客</p>
+<p>出发点呢</p>
+<p>是想有个专属于自己的地方</p>
+<p>记录新学到的的编程技术/代码</p>
+<p>书写是为了更好的思考嘛</p>
+<p>记录下自己的一些思考</p>
+<p>以上是摘要<br><a id="more"></a><br>以下是余下全文</p>
+<p>把一些琐碎的东西总结归纳然后写出来</p>
+<p>进而提高自己思考认知能力</p>
+<p>培养独立思考的能力 </p>
+<p>如果能帮助到别人的话，那就最好了。</p>
+<p>写博不是件轻松的差事</p>
+<p>需要花费很大心血</p>
+<p>我知道自己的水平有限</p>
+<p>写不出高深的技术贴</p>
+<p>希望自己学会持之以恒地做一件事情</p>
+<p>一个长期的价值博客是一份很好的简历</p>
+<p>这是一次很好的提升文字组织能力的机会。</p>
+<p>立个flag</p>
+<p><img src="http://img.blog.csdn.net/20170613022304036?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQ2hpcnN0b3BoZXI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="alt text"> </p>
+<p>最后 </p>
+<p>目前的任务是考研</p>
+<p>感觉现在的自己有点打游戏上瘾的感觉QAQ </p>
+<p>考完之后我会重新拾起它</p>
+<p>目前的最后一篇了</p>
+<p>那么</p>
+<p>say bye吧</p>
+<hr>
+<p>　</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##我为什么要写博客呢？&lt;/p&gt;
+&lt;p&gt;前几周突然想起建个个人博客&lt;/p&gt;
+&lt;p&gt;出发点呢&lt;/p&gt;
+&lt;p&gt;是想有个专属于自己的地方&lt;/p&gt;
+&lt;p&gt;记录新学到的的编程技术/代码&lt;/p&gt;
+&lt;p&gt;书写是为了更好的思考嘛&lt;/p&gt;
+&lt;p&gt;记录下自己的一些思考&lt;/p&gt;
+&lt;p&gt;以上是摘要&lt;br&gt;
+    
+    </summary>
+    
+      <category term="一些思考" scheme="https://zhangzheming.github.io/categories/%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/"/>
+    
+    
+      <category term="life" scheme="https://zhangzheming.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
     <title>教你拥有一个免费的个人博客</title>
     <link href="https://zhangzheming.github.io/2017/06/11/%E6%95%99%E4%BD%A0%E6%8B%A5%E6%9C%89%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>https://zhangzheming.github.io/2017/06/11/教你拥有一个免费的个人博客/</id>
     <published>2017-06-11T05:33:54.000Z</published>
-    <updated>2017-06-11T12:20:38.978Z</updated>
+    <updated>2017-06-12T16:31:42.966Z</updated>
     
-    <content type="html"><![CDATA[<p>前几周突然想起建个个人博客</p>
-<p>出发点呢  是想有个专属自己地方能分享记录自己的思考，资源和学习成果，可以把琐碎的东西总结归纳然后写出来</p>
-<p>其他平台呢  多少都有限制  不自由  一不小心还会被删帖</p>
-<p>看了很多教程</p>
-<p>试了很多方法</p>
-<p>慢慢的</p>
-<p>理解越来越深</p>
-<p>一个个小问题的解决</p>
-<p>喜欢上了这种不断经过努力而获得的成就感</p>
-<p>以上是摘要<br><a id="more"></a><br>以下是余下全文<br>终于</p>
-<p>经过了两天多的时间</p>
-<p>我搭建好了自己的个人博客</p>
-<p>hin开心</p>
+    <content type="html"><![CDATA[<p>##心路历程<br>看了很多教程 试了很多方法</p>
+<p>出了bug 不知道怎么改 删了再重头写QAQ</p>
+<p>不过还在慢慢的 理解越来越深</p>
+<p>随着一个个小问题的解决</p>
+<p>渐渐喜欢上了这种不断经过努力而获得的成就感</p>
+<p>以上是摘要<br><a id="more"></a><br>以下是余下全文</p>
+<p>终于<br>经过了两天多的时间</p>
+<p>我搭建好了自己的个人博客<br>hin开心</p>
 <p>好的教程真的是很重要！！QAQ</p>
 <p>我挑了三个我看来是比较详细且走心的教程</p>
-<p>这是我在找教程的过程中亲手打过的 所以有想拥有一个完全免费的博客的朋友</p>
+<p>这些都是我在找教程、搭建现在这个博客所中亲手打过的 </p>
+<p>所以有想拥有一个完全免费的博客的朋友</p>
 <p>你看下面的教程就好啦</p>
-<p>使用Hexo搭建博客（二），搭建博客的过程使用Hexo搭建博客（三），博客配置、主题和写作<br>如果有不懂的地方可以私聊我</p>
-<p>补充：</p>
-<p>我用的是NEXT主题</p>
+<p>##搭建博客<br><a href="http://www.jianshu.com/p/cc8654b61bd4" target="_blank" rel="external">使用Hexo搭建博客（二），搭建博客的过程</a></p>
+<p><a href="http://www.jianshu.com/p/db7e64d86067" target="_blank" rel="external">使用Hexo搭建博客（三），博客配置、主题和写作</a></p>
+<p>##NEXT主题以及优化<br>我用的是NEXT主题 这个主题功能很强大</p>
 <p>可以看下这个</p>
-<p>Hexo系列教程之三：next主题的配置和优化 - willxue&amp;amp;amp;amp;#x27;s blog - 博客频道 - CSDN.NET<br>hexo之next主题优化整理</p>
+<p><a href="http://blog.csdn.net/willxue123/article/details/50994852" target="_blank" rel="external">Hexo系列教程之三：next主题的配置和优化</a><br><a href="http://www.jianshu.com/p/ba61be039c1f" target="_blank" rel="external">hexo之next主题优化整理</a></p>
 <p>如果你想增加阅读量统计功能</p>
-<p>为NexT主题添加文章阅读量统计功能</p>
+<p><a href="https://notes.wanghao.work/2015-10-21-%E4%B8%BANexT%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.html#%E9%85%8D%E7%BD%AELeanCloud" target="_blank" rel="external">为NexT主题添加文章阅读量统计功能</a></p>
 <p>以及更加高逼格的</p>
-<p>hexo+next主题优化之加入网易云音乐、网易云跟帖、炫酷动态背景 - 博客频道 - CSDN.NET</p>
+<p><a href="http://blog.csdn.net/sunshine940326/article/details/69933696" target="_blank" rel="external">hexo+next主题优化之加入网易云音乐、网易云跟帖、炫酷动态背景</a></p>
+<p>如果有不懂的地方可以私聊我</p>
 <p>最后</p>
 <p>如果遇到问题的话 私聊我就好啦<br>相信你经过努力 会搭建好一个符合自己心意的博客。</p>
 <hr>
@@ -55,15 +111,11 @@
     
     <summary type="html">
     
-      &lt;p&gt;前几周突然想起建个个人博客&lt;/p&gt;
-&lt;p&gt;出发点呢  是想有个专属自己地方能分享记录自己的思考，资源和学习成果，可以把琐碎的东西总结归纳然后写出来&lt;/p&gt;
-&lt;p&gt;其他平台呢  多少都有限制  不自由  一不小心还会被删帖&lt;/p&gt;
-&lt;p&gt;看了很多教程&lt;/p&gt;
-&lt;p&gt;试了很多方法&lt;/p&gt;
-&lt;p&gt;慢慢的&lt;/p&gt;
-&lt;p&gt;理解越来越深&lt;/p&gt;
-&lt;p&gt;一个个小问题的解决&lt;/p&gt;
-&lt;p&gt;喜欢上了这种不断经过努力而获得的成就感&lt;/p&gt;
+      &lt;p&gt;##心路历程&lt;br&gt;看了很多教程 试了很多方法&lt;/p&gt;
+&lt;p&gt;出了bug 不知道怎么改 删了再重头写QAQ&lt;/p&gt;
+&lt;p&gt;不过还在慢慢的 理解越来越深&lt;/p&gt;
+&lt;p&gt;随着一个个小问题的解决&lt;/p&gt;
+&lt;p&gt;渐渐喜欢上了这种不断经过努力而获得的成就感&lt;/p&gt;
 &lt;p&gt;以上是摘要&lt;br&gt;
     
     </summary>
