@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhangzheming.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-06-13T02:32:08.990Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zhangzheming.github.io/categories/index.html</loc>
+    
+    <lastmod>2017-06-13T02:30:01.217Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zhangzheming.github.io/2017/06/13/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2017-06-12T18:44:25.818Z</lastmod>
@@ -19,20 +33,6 @@
     <loc>https://zhangzheming.github.io/photo/index-1.html</loc>
     
     <lastmod>2017-06-11T11:34:25.508Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zhangzheming.github.io/tags/index-1.html</loc>
-    
-    <lastmod>2017-06-11T11:33:40.928Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zhangzheming.github.io/categories/index-1.html</loc>
-    
-    <lastmod>2017-06-11T11:33:26.423Z</lastmod>
     
   </url>
   
@@ -68,20 +68,6 @@
     <loc>https://zhangzheming.github.io/sharetechnologys/index.html</loc>
     
     <lastmod>2017-06-11T05:24:48.330Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zhangzheming.github.io/categories/index.html</loc>
-    
-    <lastmod>2017-06-11T04:58:21.120Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zhangzheming.github.io/tags/index.html</loc>
-    
-    <lastmod>2017-06-11T04:58:03.090Z</lastmod>
     
   </url>
   
